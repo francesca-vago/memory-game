@@ -1,0 +1,11 @@
+.game-info-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    justify-content: center;
+}
